@@ -1,0 +1,7 @@
+﻿  Afiru r.cpp
+  The contents of <filesystem> are only available with C++17 or later.
+D:\Afiru r\Afiru r\Afiru r.cpp(71,58): warning C4305: "=": obcięcie z "int" do "WORD"
+D:\Afiru r\Afiru r\Afiru r.cpp(71,44): warning C4309: "=": obcięcie stałej wartości
+D:\Afiru r\Afiru r\Afiru r.cpp(102,35): warning C4305: "=": obcięcie z "int" do "WORD"
+D:\Afiru r\Afiru r\Afiru r.cpp(102,23): warning C4309: "=": obcięcie stałej wartości
+  Afiru r.vcxproj -> D:\Afiru r\Afiru r\Debug\Afiru r.exe
